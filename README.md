@@ -136,7 +136,7 @@ Horror advanture от первого(третьего) лица с минима�
 
 ## Стиль игры
 
-![Scene](C:\Users\Admin\Desktop\Scene.png)
+![Scene](C:\Users\Admin\Desktop\ELAD-Frozen-mind\Scene.png)
 
 ## Системы
 
